@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.269855">
+<testcase classname="Login function in the Fidelity App" name="User is unable to login with incorrect ID" time="0.269855">
+<system-out><![CDATA[Given user has launched the Fidelity charitable website.....................passed
+When he clicks on login button..............................................passed
+And enter incoorect ID and password.........................................passed
+Then system should throw an error...........................................passed
+And should not let user login...............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
