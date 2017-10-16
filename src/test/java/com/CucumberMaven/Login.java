@@ -8,7 +8,7 @@ import cucumber.api.java.en.When;
 public class Login {
 	
 	
-	
+	//modify and commit to git
 	
 	@Given("^user has launched the Fidelity charitable website$")
 public void user_has_launched_the_Fidelity_charitable_website() throws Throwable {
